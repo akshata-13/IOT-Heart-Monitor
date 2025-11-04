@@ -1,4 +1,4 @@
-# ❤️ IoT Heart Disease Monitoring System
+# ❤️ IoT Health Monitoring System
 
 ## 📌 Overview
 
